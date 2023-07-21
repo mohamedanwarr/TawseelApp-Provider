@@ -1,13 +1,28 @@
 # tawseelapp
-
-A new Flutter project.
+ 
+Food Delivary App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+🔌plugin:
 
-A few resources to get you started if this is your first Flutter project:
+  cupertino_icons: 
+  animated_splash_screen:
+  carousel_slider:
+  provider:
+  flutter_svg: 
+  flutter_multi_formatter: 
+  flutter_keyboard_visibility:
+  go_router:
 
+🎥 Video : 
+
+
+
+https://github.com/mohamedanwarr/TawseelApp-Provider/assets/81979968/a9d4d612-b170-4fce-8cdf-8d409cfaa517
+
+
+  
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 

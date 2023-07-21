@@ -7,13 +7,24 @@ Food Delivary App
 🔌plugin:
 
   cupertino_icons: 
+		
   animated_splash_screen:
+		
   carousel_slider:
+		
   provider:
+		
   flutter_svg: 
-  flutter_multi_formatter: 
-  flutter_keyboard_visibility:
+		
+  flutter_multi_formatter:
+		
   go_router:
+		
+  flutter_keyboard_visibility:		
+
+		
+		
+
 
 🎥 Video : 
 
